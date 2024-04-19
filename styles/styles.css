@@ -149,7 +149,7 @@ tr:nth-last-child(1){
     color: hsl(228, 45%, 44%); 
 }
 
-@media screen and (width > 375px) {
+@media screen and (width > 400px) {
     body{
         display: grid;
         grid-template-columns: 50%;
